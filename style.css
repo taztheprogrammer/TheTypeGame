@@ -87,14 +87,19 @@ body{
     margin-left: calc(var(--dim) * 4.2);
 }
 
-#r1 {
+.q {
     margin-left: calc(var(--dim) * 1.4);
 }
 
-#r2 {
+.a {
     margin-left: calc(var(--dim) * 1.6);
 }
 
-#r3 {
+.z {
     margin-left: calc(var(--dim) * 2.1);
+}
+
+
+.lit-up {
+    background-color: white;
 }
