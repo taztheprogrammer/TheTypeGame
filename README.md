@@ -2,7 +2,7 @@
 <p>Personal front-end project for fun.<br>I enjoy just typing because I find it relaxing. I had an idea to improve my typing speed by testing reaction time per letter.<br>
 I decided I would make my own implementation for practice.</p>
 
-<img src='./img/Calculator.png'>
+<img src='./img/typeGameScreenshot.png' style='max-width: 100%; height: auto;'>
 
 <h2><a href="https://taztheprogrammer.github.io/Calculator/">Website Preview Here</a></h2>
 
@@ -20,6 +20,6 @@ I decided I would make my own implementation for practice.</p>
 </ul>
 <h2>Links</h2>
 <ul>
-  <li>Next Project <a href='https://github.com/taztheprogrammer/TheTypeGame'>The Type Game</a></li>
+  <li>Next Project <a>coming soon</a></li>
   <li>Previous Project <a href="https://github.com/taztheprogrammer/Etch-a-Sketch">Etch-a-Sketch</a></li>
 </ul>
